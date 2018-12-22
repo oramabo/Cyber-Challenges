@@ -17,7 +17,7 @@ higher page numbers until it finds something on the webpage resembling `X-MAS`.
 
 1. Record message using OBS into an mp3 file because I couldn't find a way to download it
 2. Drag mp3 file to Audacity 
-3. Use Spectrogram setting to for better visuals
+3. Use Spectrogram setting for better visuals
 4. Translate visual into Morse Code 
 
    At this point, you should get `github com gooogal xmas`
