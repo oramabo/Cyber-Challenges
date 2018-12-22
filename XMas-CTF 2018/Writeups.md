@@ -2,7 +2,7 @@
 
 ## The Ultimate Christmas Game
 
-1. Run keygen.py in the above folder to bypass CAPTCHA
+1. Run keygen.py in the respective folder to obtain string needed to bypass CAPTCHA
 2. Get nim's game logic from Wikipedia and beat the computer using it
 
 ## Santa's Lucky Number
@@ -23,7 +23,7 @@ higher page numbers until it finds something on the webpage resembling `X-MAS`.
    At this point, you should get `github com gooogal xmas`
 
 5. Google the message and navigate to the found GitHub repository
-6. Translate all the uppercase letters in line 5 of the text file to ROT13
+6. Translate all the uppercase letters in line 5 of the text file in the repo to ROT13
 
 ## Special Christmas Wishlist
 
