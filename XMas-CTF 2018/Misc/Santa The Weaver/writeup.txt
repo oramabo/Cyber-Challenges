@@ -1,0 +1,6 @@
+BACKGROUND
+(converted MAS to hex, or 4d4153a) https://codebeautify.org/string-hex-converter
+STEPS
+hexedit flag.png
+/ 4d4153
+
