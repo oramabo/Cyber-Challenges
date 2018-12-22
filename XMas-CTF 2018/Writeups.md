@@ -9,7 +9,7 @@
 
 Run brute.py
 
-...First, I noticed that `/?page=1` gets appended to the URL when clicking on `Page 1`, and 
+First, I noticed that `/?page=1` gets appended to the URL when clicking on `Page 1`, and 
 `/?page=2` gets appended to the URL when clicking on `Page 2`. So, brute.py scrapes URLs with
 higher page numbers until it finds something on the webpage resembling `X-MAS`.
 
@@ -20,7 +20,7 @@ higher page numbers until it finds something on the webpage resembling `X-MAS`.
 3. Play it using the Spectrogram setting
 4. Translate mp3 into Morse Code 
 
-...At this point, you should get `github com gooogal xmas`
+   At this point, you should get `github com gooogal xmas`
 
 5. Google the message and navigate to the found GitHub repository
 6. Translate all the uppercase letters in line 5 of the text file to ROT13
@@ -38,7 +38,7 @@ higher page numbers until it finds something on the webpage resembling `X-MAS`.
 2. `/ 4d4153`, or alternatively `ctrl-T / X-MAS`
 
 
-... Searches image for flag
+   Searches image for flag
 
 ## Oh Christmas Tree
 
