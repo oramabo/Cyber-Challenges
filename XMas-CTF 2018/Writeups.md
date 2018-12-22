@@ -15,7 +15,7 @@ higher page numbers until it finds something on the webpage resembling `X-MAS`.
 
 ## Santa's Security Levels
 
-1. Record audio to .mp3 file
+1. Record audio to mp3 file because unable to download it
 2. Drag mp3 file to Audacity 
 3. Play it using the Spectrogram setting
 4. Translate mp3 into Morse Code 
