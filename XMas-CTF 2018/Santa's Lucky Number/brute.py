@@ -1,5 +1,4 @@
-import urllib.request
-import urllib.error
+from urllib import request, error
 
 WEBSITE = "http://199.247.6.180:12005/?page="
 
@@ -8,7 +7,7 @@ def find_xmas():
     x = 0
     while True:
         try:
-            html = urllib.request.urlopen(WEBSITE + str(x))
+            html = request.urlopen(WEBSITE + str(x))
             ps = html.read().decode("utf-8")
             b = ps.find("<p align=\"center\">", ps.find("<p align=\"center\">") + 1)
             e = ps.find("</p>", ps.find("</p>") + 1)
@@ -16,7 +15,7 @@ def find_xmas():
             if val.find("X-MAS") != -1:
                 print(val)
                 break
-        except urllib.error.URLError as err:
+        except error.URLError as err:
             print(err)
         x += 1
 
