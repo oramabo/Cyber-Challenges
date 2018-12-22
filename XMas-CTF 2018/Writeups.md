@@ -30,7 +30,7 @@ higher page numbers until it finds something on the webpage resembling `X-MAS`.
 1. Assign each symbol a letter of the alphabet in roughly the first four lines
 2. Plug your string into an online substitution solver
 3. Use this knowledge to find what XMAS should look like
-4. Decode the rest of the line with XMAS in it
+5. Find and decode the rest of the line with XMAS in it
 
 ## Santa the Weaver
 
