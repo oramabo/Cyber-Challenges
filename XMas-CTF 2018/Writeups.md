@@ -37,12 +37,11 @@ higher page numbers until it finds something on the webpage resembling `X-MAS`.
 1. `hexedit flag.png`
 2. `/ 4d4153`, or alternatively `ctrl-T / X-MAS`
 
-
-   Searches image for flag
+   Searches image for flag format
 
 ## Oh Christmas Tree
 
-See Santa the Weaver. Basically the same thing, except part of the flag is split from the rest of it.
+See Santa the Weaver. Same challenge, except part of the flag is split and is further down in hexedit.
 
 ## Gnome's Buttons
 
