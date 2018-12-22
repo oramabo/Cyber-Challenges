@@ -15,10 +15,10 @@ higher page numbers until it finds something on the webpage resembling `X-MAS`.
 
 ## Santa's Security Levels
 
-1. Record message into mp3 file because unable to download it
+1. Record message using OBS into an mp3 file because I couldn't find a way to download it
 2. Drag mp3 file to Audacity 
-3. Play it using the Spectrogram setting
-4. Translate mp3 into Morse Code 
+3. Use Spectrogram setting to for better visuals
+4. Translate visual into Morse Code 
 
    At this point, you should get `github com gooogal xmas`
 
@@ -30,7 +30,7 @@ higher page numbers until it finds something on the webpage resembling `X-MAS`.
 1. Assign each symbol a letter of the alphabet in roughly the first four lines
 2. Plug your string into an online substitution cipher solver
 3. Use this knowledge to find what XMAS should look like
-5. Find and decode the rest of the line with XMAS in it
+5. Find the line with XMAS in it and decode the rest of it
 
 ## Santa the Weaver
 
