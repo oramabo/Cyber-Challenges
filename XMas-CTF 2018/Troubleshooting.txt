@@ -1,2 +1,0 @@
-VMWare Workstation Player update fix - kill VMWare Workstation Player in taskmgr while
-its installer is loading. To find its shortcut again, go to Program Files x86.

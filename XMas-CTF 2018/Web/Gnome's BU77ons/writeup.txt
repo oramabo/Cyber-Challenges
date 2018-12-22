@@ -1,1 +1,0 @@
-change button value to flag

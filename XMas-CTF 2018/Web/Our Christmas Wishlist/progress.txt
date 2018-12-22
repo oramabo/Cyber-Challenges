@@ -1,6 +1,0 @@
-&lt;/li&gt; 
-
-&lt;iframe src="/flag.txt" name="targetframe" allowTransparency="true" scrolling="no" frameborder="0" &gt;
-&lt;/iframe&gt;
-
-&lt;li&gt;
