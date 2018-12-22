@@ -1,3 +1,0 @@
-substitution cipher:
-convert beginning part to letters ... and plug 4~ lines into an online solver
-then find "xmas" and the rest of the flag in the png
